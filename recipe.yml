@@ -1,11 +1,28 @@
 rpms:
+  - clevis
+  - clevis-dracut
+  - clevis-udisks2
+  - distrobox
+  - evolution
+  - freeipa-client
+  - libratbag-ratbagd
+  - nmap-ncat
+  - openssh-askpass
+  - rclone
+  - vim
+  - vim-default-editor
   - zenity
 flatpaks:
-  - org.mozilla.firefox
-  - org.mozilla.Thunderbird
-  - com.mattjakeman.ExtensionManager
-  - org.libreoffice.LibreOffice
-  - org.gnome.DejaDup
-  - org.gustavoperedo.FontDownloader
+  - cc.arduino.arduinoide
+  - com.github.micahflee.torbrowser-launcher
   - com.github.tchx84.Flatseal
-  - io.github.celluloid_player.Celluloid
+  - com.mastermindzh.tidal-hifi
+  - im.riot.Riot
+  - io.dbeaver.DBeaverCommunity
+  - io.freetubeapp.FreeTube
+  - io.github.TransmissionRemoteGtk
+  - org.freedesktop.Piper
+  - org.gustavoperedo.FontDownloader
+  - org.keepassxc.KeePassXC
+  - org.libreoffice.LibreOffice
+  - org.videolan.VLC
