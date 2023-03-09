@@ -3,7 +3,7 @@ ARG FEDORA_MAJOR_VERSION=37
 FROM ghcr.io/ublue-os/silverblue-main:${FEDORA_MAJOR_VERSION}
 
 COPY etc /etc
-COPY usr /usr
+# COPY usr /usr
 
 COPY --from=ghcr.io/ublue-os/config:latest /files/ublue-os-udev-rules /
 COPY --from=ghcr.io/ublue-os/config:latest /files/ublue-os-update-services /
