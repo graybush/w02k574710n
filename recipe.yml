@@ -8,6 +8,7 @@ rpms:
   - libratbag-ratbagd
   - nmap-ncat
   - openssh-askpass
+  - pcsc-lite
   - rclone
   - vim
   - vim-default-editor
