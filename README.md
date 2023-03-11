@@ -1,6 +1,6 @@
 # w02k574710n
 
-[![build-ublue](https://github.com/graybus/w02k574710n/actions/workflows/build.yml/badge.svg)](https://github.com/graybush/w02k574710n/actions/workflows/build.yml)
+[![build-ublue](https://github.com/graybush/w02k574710n/actions/workflows/build.yml/badge.svg)](https://github.com/graybush/w02k574710n/actions/workflows/build.yml)
 
 Experimental custom Silverblue image for my workstation
 
