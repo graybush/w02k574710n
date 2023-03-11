@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.0.0 (2023-03-11)
+
+
+### Features
+
+* add pcsc-lite ([e905177](https://github.com/graybush/w02k574710n/commit/e905177ec667bbfacd8b32768a16c15a1783ab68))
+* add zoom, fuse conf ([361e286](https://github.com/graybush/w02k574710n/commit/361e286305b8ea6f71f4161751b54e111cf7638e))
+* update cosign.pub ([96eeb1e](https://github.com/graybush/w02k574710n/commit/96eeb1e490632da2897c0d0a5f32a5d001f85f27))
+* update installed software ([c669b17](https://github.com/graybush/w02k574710n/commit/c669b17c9b90c50e37d2a72f00454ad17c8e0bc5))
+* update package name ([501b596](https://github.com/graybush/w02k574710n/commit/501b5963cb2d9948c3ce81e8a617c7695fc92114))
+
+
+### Bug Fixes
+
+* add distrobox conf ([ee79088](https://github.com/graybush/w02k574710n/commit/ee790888c49a1038b5f42dbdf2a752ed63303dcc))
+* add dracut configuration ([5803307](https://github.com/graybush/w02k574710n/commit/58033072365cbef97a939549384ec620857278fb))
+* comment out /usr ([5b60c7e](https://github.com/graybush/w02k574710n/commit/5b60c7e2aa60fbbe01e0a83fc12a223e7089813f))
+* only need remote-fs ([39cd320](https://github.com/graybush/w02k574710n/commit/39cd3206d87628290e2887dee8b8481218c580a6))
+* start nfs services ([64743ab](https://github.com/graybush/w02k574710n/commit/64743ab89e0857aa94fe998b1c43a46d7847808d))
+* typo ([8d0f6fb](https://github.com/graybush/w02k574710n/commit/8d0f6fbedaab7f3b4f5dbe14c2375527822d7f23))
+
 ## [1.1.0](https://github.com/ublue-os/base/compare/v1.0.0...v1.1.0) (2023-03-03)
 
 
